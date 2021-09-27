@@ -1,0 +1,13 @@
+C:\Users\MathiasAronsen\Downloads\new_game_sdk\discord_game_sdk\csharp-project\csharp-project\bin\Release\net5.0\discord_game_sdk.dll
+C:\Users\MathiasAronsen\Downloads\new_game_sdk\discord_game_sdk\csharp-project\csharp-project\bin\Release\net5.0\csharp-project.exe
+C:\Users\MathiasAronsen\Downloads\new_game_sdk\discord_game_sdk\csharp-project\csharp-project\bin\Release\net5.0\csharp-project.deps.json
+C:\Users\MathiasAronsen\Downloads\new_game_sdk\discord_game_sdk\csharp-project\csharp-project\bin\Release\net5.0\csharp-project.runtimeconfig.json
+C:\Users\MathiasAronsen\Downloads\new_game_sdk\discord_game_sdk\csharp-project\csharp-project\bin\Release\net5.0\csharp-project.runtimeconfig.dev.json
+C:\Users\MathiasAronsen\Downloads\new_game_sdk\discord_game_sdk\csharp-project\csharp-project\bin\Release\net5.0\csharp-project.dll
+C:\Users\MathiasAronsen\Downloads\new_game_sdk\discord_game_sdk\csharp-project\csharp-project\obj\Release\net5.0\csharp-project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MathiasAronsen\Downloads\new_game_sdk\discord_game_sdk\csharp-project\csharp-project\obj\Release\net5.0\csharp-project.AssemblyInfoInputs.cache
+C:\Users\MathiasAronsen\Downloads\new_game_sdk\discord_game_sdk\csharp-project\csharp-project\obj\Release\net5.0\csharp-project.AssemblyInfo.cs
+C:\Users\MathiasAronsen\Downloads\new_game_sdk\discord_game_sdk\csharp-project\csharp-project\obj\Release\net5.0\csharp-project.csproj.CoreCompileInputs.cache
+C:\Users\MathiasAronsen\Downloads\new_game_sdk\discord_game_sdk\csharp-project\csharp-project\obj\Release\net5.0\csharp-project.dll
+C:\Users\MathiasAronsen\Downloads\new_game_sdk\discord_game_sdk\csharp-project\csharp-project\obj\Release\net5.0\csharp-project.genruntimeconfig.cache
+C:\Users\MathiasAronsen\Downloads\new_game_sdk\discord_game_sdk\csharp-project\csharp-project\obj\Release\net5.0\csharp-project.csproj.AssemblyReference.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "V5q8nxaYQy9sqBZnC9oQj6mF0KsX/UX0PM644CJKCVa+uerRZvNJ82HMxsW/BAm4w/+RHGWsXlgXhJOL7sgEkA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MathiasAronsen\\Downloads\\new_game_sdk\\discord_game_sdk\\csharp-project\\csharp-project\\csharp-project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MathiasAronsen\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.8\\microsoft.netcore.app.host.win-x64.5.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

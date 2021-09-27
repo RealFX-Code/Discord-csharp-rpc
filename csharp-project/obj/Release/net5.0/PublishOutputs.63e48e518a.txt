@@ -1,0 +1,5 @@
+C:\Users\MathiasAronsen\Downloads\new_game_sdk\discord_game_sdk\csharp-project\csharp-project\bin\Release\net5.0\publish\csharp-project.exe
+C:\Users\MathiasAronsen\Downloads\new_game_sdk\discord_game_sdk\csharp-project\csharp-project\bin\Release\net5.0\publish\discord_game_sdk.dll
+C:\Users\MathiasAronsen\Downloads\new_game_sdk\discord_game_sdk\csharp-project\csharp-project\bin\Release\net5.0\publish\csharp-project.dll
+C:\Users\MathiasAronsen\Downloads\new_game_sdk\discord_game_sdk\csharp-project\csharp-project\bin\Release\net5.0\publish\csharp-project.deps.json
+C:\Users\MathiasAronsen\Downloads\new_game_sdk\discord_game_sdk\csharp-project\csharp-project\bin\Release\net5.0\publish\csharp-project.runtimeconfig.json

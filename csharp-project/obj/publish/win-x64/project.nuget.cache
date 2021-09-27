@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "8rXcrFTZsxmSdRVZJDmymmeqMREzqrBY+iFnfISeTCrpLMKEKNSK+OCOsYbK5l17JKbSfQ61e+Oq2dtmRHrGCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MathiasAronsen\\Downloads\\new_game_sdk\\discord_game_sdk\\csharp-project\\csharp-project\\csharp-project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MathiasAronsen\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\5.0.8\\microsoft.netcore.app.runtime.win-x64.5.0.8.nupkg.sha512",
+    "C:\\Users\\MathiasAronsen\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\5.0.8\\microsoft.windowsdesktop.app.runtime.win-x64.5.0.8.nupkg.sha512",
+    "C:\\Users\\MathiasAronsen\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\5.0.8\\microsoft.aspnetcore.app.runtime.win-x64.5.0.8.nupkg.sha512",
+    "C:\\Users\\MathiasAronsen\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.8\\microsoft.netcore.app.host.win-x64.5.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

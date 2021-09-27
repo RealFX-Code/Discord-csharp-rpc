@@ -1,0 +1,6 @@
+C:\Users\MathiasAronsen\Downloads\new_game_sdk\discord_game_sdk\csharp-project\csharp-project\bin\Release\net5.0\publish\win-x64\discord_game_sdk.dll
+C:\Users\MathiasAronsen\Downloads\new_game_sdk\discord_game_sdk\csharp-project\csharp-project\bin\Release\net5.0\publish\win-x64\clrcompression.dll
+C:\Users\MathiasAronsen\Downloads\new_game_sdk\discord_game_sdk\csharp-project\csharp-project\bin\Release\net5.0\publish\win-x64\clrjit.dll
+C:\Users\MathiasAronsen\Downloads\new_game_sdk\discord_game_sdk\csharp-project\csharp-project\bin\Release\net5.0\publish\win-x64\coreclr.dll
+C:\Users\MathiasAronsen\Downloads\new_game_sdk\discord_game_sdk\csharp-project\csharp-project\bin\Release\net5.0\publish\win-x64\mscordaccore.dll
+C:\Users\MathiasAronsen\Downloads\new_game_sdk\discord_game_sdk\csharp-project\csharp-project\bin\Release\net5.0\publish\win-x64\csharp-project.exe
