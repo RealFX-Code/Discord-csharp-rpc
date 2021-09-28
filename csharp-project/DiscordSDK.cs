@@ -22,7 +22,6 @@ namespace CsharpProject
             var clientID = Environment.GetEnvironmentVariable("DISCORD_CLIENT_ID");
             if (clientID == null)
             {
-                //clientID = "847176730237206600";
                 clientID = ClientIdentifier.ToString();
             }
             bool ActivityError = false;
